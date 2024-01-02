@@ -1,0 +1,14 @@
+C:\Users\legen\source\repos\circlebar\circlebar\bin\Debug\circlebar.exe.config
+C:\Users\legen\source\repos\circlebar\circlebar\bin\Debug\circlebar.exe
+C:\Users\legen\source\repos\circlebar\circlebar\bin\Debug\circlebar.pdb
+C:\Users\legen\source\repos\circlebar\circlebar\bin\Debug\CircularProgressBar.dll
+C:\Users\legen\source\repos\circlebar\circlebar\bin\Debug\WinFormAnimation.dll
+C:\Users\legen\source\repos\circlebar\circlebar\bin\Debug\CircularProgressBar.xml
+C:\Users\legen\source\repos\circlebar\circlebar\obj\Debug\circlebar.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\circlebar\circlebar\obj\Debug\circlebar.Form1.resources
+C:\Users\legen\source\repos\circlebar\circlebar\obj\Debug\circlebar.Properties.Resources.resources
+C:\Users\legen\source\repos\circlebar\circlebar\obj\Debug\circlebar.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\circlebar\circlebar\obj\Debug\circlebar.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\circlebar\circlebar\obj\Debug\circlebar.csproj.CopyComplete
+C:\Users\legen\source\repos\circlebar\circlebar\obj\Debug\circlebar.exe
+C:\Users\legen\source\repos\circlebar\circlebar\obj\Debug\circlebar.pdb
